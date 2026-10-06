@@ -1,0 +1,7 @@
+# 프로그램 시작
+if __name__ == "__main__":
+    main()
+    __pycache__/
+*.pyc
+venv/
+.vscode/
